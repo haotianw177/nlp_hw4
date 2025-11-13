@@ -1,0 +1,119 @@
+=== GREEDY SEARCH RESULTS (Part 1) ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He was a high school dropout, and he was a high school dropout. He was a high school dropout. He was a high school dropout. He was a high school dropout
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party.
+
+"I'm not going to be able to do that," she says. "I'm not going to be able to do that. I'm not going to be able to do that.
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+"I was so excited to see the world, but I was also so scared of what I was going to see," she said.
+
+"I was so scared of what I was
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross.
+
+"I was like, 'Oh my God, I'm going to have to eat this,'" she said. "I was like, 'I'm going to have to eat this.' I
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I was so happy to be back in the band. I was so happy to be back in the band. I was so happy to be back in the band. I was so happy to be back
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. He took it out and took a picture of it. He took a picture of it and took a picture of it and took a picture of it and took a picture of it and took a picture of
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today.
+
+"I'm a big fan of the outdoors," he said. "I love the outdoors. I love the outdoors. I love the outdoors. I love the outdoors. I love the outdoors
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. They were also very good at playing the piano.
+
+"I was a little bit nervous about the music, but I was able to play it. I was able to play it for a while
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She was a member of the medical staff at the hospital. She was a member of the medical staff at the hospital. She was a member of the medical staff at the hospital. She was a member
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. She was a little bit of a outdoorsy person, but she was also a little bit of a outdoorsy person. She was a little bit of a outdoorsy person. She was a little bit
+
+
+
+=== ANCESTRAL SAMPLING RESULTS (Part 1) ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He's had his share of troubles, though, and he'd disgruntled parents most to his chagrin.
+
+Now, 20, having lost the frontman's full backing to Chris in the harvest
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. Could this moment in the middle be set her on the wrong path when Markelle sister Margaret is a fugitive lad we'd seen watching the Batman movies pouring into her daughter scene?
+
+Markel
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+
+She had never talked about NATO before and she had never offered any of her own bedside toys to anyone to try and make it out.
+
+
+She had planned to move to Europe to
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. She asked Jassee to put it right up on her shoulders before adding sweet snickerdoughnuts.
+
+"And after deliberation, y'all come piping onto the cookie dough with
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. We were playing at Goldi Lane Stadium over the past year. because last year in band 4 we played so many people since drifting off MP after MP at 2pt Monday morning. so today I will
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. He grabbed his M4 prop for once before giving it an updated face, scrounged through his eligibility papers and committed to JREF your best friend. He was arrested for "questionable lifestyle
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today.
+
+"I work both ways, and our two pets have to share some space," says Bill, a ride-hailing business owner from Greenwich, he says. "But my car's fe
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. Billy's was was one of the most famous bars around Lake Michigan.
+
+Billy and Jenkins Choral Band
+
+Celebration ceremonies have been held elsewhere in the city. While I name weddings
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school.
+
+
+At the time, her husband and their infant daughter were school drop outs trying to earn their starting pay, she said. "I got triggered and stayed home and couldn't spend a second,"
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. His beau did not like hunting. The sharp open cones rarely easel earthy. She'd been with them for almost twenty thirty years. He'd been traveling for years. Fish came and went
+

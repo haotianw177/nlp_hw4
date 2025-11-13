@@ -1,0 +1,278 @@
+=== PART 3: HYPERPARAMETER TUNING (Temperature + Top-k) ===
+
+=== Temperature: 0.5, k: 5 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He was raised in a small town in the Midwest, where there was a large number of people living in poverty. He was the only child of a single mother.
+
+He was raised by a
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party.
+
+"I'm going to have to get a job," she says. "I'm going to have to get a job."
+
+The couple has two children, ages 9 and 10,
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+"I was so excited to be back, and so excited to be back with my family," she said.
+
+"I was so excited to be back with my family and I am
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. "It was a little bit gross," she said. "It was a little bit gross. I'm not sure how it was going to go."
+
+"I was like, 'What the
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I was so proud of the band and the band members, and I wanted to do something special for them. I wanted to be a part of that. I was really proud of them. I was
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 0.5, k: 20 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He was raised by his parents, and was raised by his mother.
+
+He had a mother who was a teacher, and his father who was a lawyer.
+
+"I was raised to
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. The party is going to be held at the same place where she was last seen.
+
+She was last seen on the morning of March 12, 2016, leaving a message on her cell phone telling
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. She was very excited.
+
+"I have been thinking about this for years, and I have always wanted to get to know her," she said. "It's been a really wonderful experience to
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. "I don't know if it's going to be gross or not," he said. "I'm not going to say it's gross, but I'm not going to say it's gross."
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I was in the middle of marching band with my mother, and she was in the middle of marching band with her brother. She was in the middle of marching band with her brother. The last time
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 0.5, k: 50 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He never had a job, so he never had a dream job, so he didn't have any money to live on. He never had a job, so he never had a dream job, so
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party.
+
+"I'm actually surprised that I haven't heard of you," she says. "I'm not sure if it's a coincidence, but I'm sure you have a crush on me."
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. But she never went.
+
+"I never thought I'd see my family again," she said. "I was just so happy to be home. I was so excited to see my family again
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. She didn't like the taste of the cookie dough. She thought she'd be able to take a shot of it and see what it was like.
+
+A few days later, when I went
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I was pretty good at marching, but I was also pretty good at dancing. I was good at dancing. I was good at being a good dancer. I was good at being a good dancer.
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 1.0, k: 5 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. She had to work hard for her education, and she had a hard time getting her father to pay for it. "She was just like, 'I don't want to do this,' " he
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party.
+
+"I'm going to be honest, it's just a big party. It's going to be a big party, and I'm going to be honest, I'm going to be honest
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+"I thought I would go to the United States, but my mother told her I was going to the Philippines."
+
+She said she had been in touch with a local woman, who
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. But she didn't think the cookies would be gross, either. She was so worried the cookie dough in the tube would be gross that she didn't take the cookies off the shelf.
+
+She
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I was wearing a white dress that had the sleeves of an old white shirt, with my back straight. The band was in the middle of the stage, and I was wearing a black jacket, which
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 1.0, k: 20 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. His father served as the head of a large corporation that was running around town while his mother was on vacation. As an eight-year-old, her life became increasingly difficult.
+
+"He
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. "You're going to have to go find her before you get to this party, because I'm sure she'll come and help us out of there," she says.
+
+This time, though
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. He had no idea it would be her last.
+
+Now she was on a mission to visit Europe, to learn more and learn about life in a foreign land. She was not just doing that
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. I tried to get her to let me know that she wasn't sure if I'd had good luck on the next time. She agreed and took the first bite and said, "You're welcome,
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I have been playing my drums in various roles for the last 20 years or so and am very grateful.
+
+I don't believe that you have met someone before, but you did meet one.
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 1.0, k: 50 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. His paternal grandmother and the older brother had both come from prison, where their maternal grandmother, who had committed a lesser crime than her brother, served as a prison supervisor. Though they were both children on
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. "So, this is what they might ask, huh?" she said.
+
+Rikki looked amused.
+
+"Oh? They would want a girl there. But for the sake of
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+"I'm sure that in the future she'll look back on her early years with nostalgia and optimism," Haidt added. "She's the first ever to feel something she didn't
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. But the dough also seemed to be soft and fluffy. So the recipe worked pretty well when prepared. I baked the cookies to a 350°C/500°F/160°F/25 °
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I don't know of any other company that I have tried using my face paint to make my appearance look more like my face. I was on the line for 1st on the march. I was
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 2.0, k: 5 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. He has a degree in English literature and was a graduate candidate of Oxford. His first novel, a novel about an American woman named Martha, is about a girl who's lost the love of their lives
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. She is not sure if she can help, because of how much time they spend together, but she is sure that she can do something to help. She has to do something to help her, and
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. "It would have taken me a few years to find it, I just couldn't believe I was doing that," he recalls.
+
+But then, he says, "I was really into the
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. She thought it would be gross because it would look so gross. Then she saw a video of how the tube would look on the tube with the cookie dough.
+
+It was a very funny experience
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. The last time we did a concert, we had a big crowd of people who didn't have any experience of it. We went through the motions a few years ago and it was really fun to be
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 2.0, k: 20 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. She said she doesn't have many friends, but she feels like one of them "is my mom," or someone like her mom.
+
+"When I met her it seemed to me like someone
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. After getting out in search of her father he comes to their aid and saves them!Image:
+
+Taken down in December, a car from China went into a remote valley north-east
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. But she had recently made the decision to stay at Hogwarts to avoid her mother's insistence. And her dad had come.
+
+And so it was. As soon as Ron could sense any change to
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. He then realized her son, John, was playing football at her family's family's house in West Point and her son, J, was doing the cooking in one of a series of other small kitchens
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. When I got to be here, my first thought was it would make me laugh when somebody else did something, and I laughed for a bit when I saw those pictures. Then when one of us got
+
+--------------------------------------------------------------------------------
+
+=== Temperature: 2.0, k: 50 ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household.
+
+The child-turned actor has starred on The Voice's nationally syndicated news program since 2005 under one condition – that she can give more clues (to friends!) than she normally does when discussing
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. With everything going wrong in a big room – they couldn't hold a party in public today while the big boys went off to work all weekend long instead of returning home today – we go live on television
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. 'I'm not crazy: they make fun stuff,' she laughed recently. "And everyone said. If I had lived for three more of my childhoods, my children…'" For all his good
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. She ordered a small bag-sized assortment of vanilla butter & cream chocolate cake waffle cake batter along with a spoonful a few extra grams of the same, melted chocolate flour from chocolate bar or cake
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. On Sunday the morning since 9 AM I joined on one final stand-to-show and for more music was announced on my home TV a little after 1 PM by myself on 1 September for the marching
+
+--------------------------------------------------------------------------------
+

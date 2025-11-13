@@ -1,0 +1,126 @@
+=== Part 2 TOP-K DECODING RESULTS (k=50) ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household.
+
+"What do you call yourselves before age 17 or 18?" he asked. "The one who loves to make kids do the things they have to do?"
+
+But the question he always
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party. When she meets the stranger, she decides to take out a bottle of vodka, to make sure she isn't being cheated.
+
+Back in the present, the party continues to a full day's
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. Now there was a definite chance that the journey might also take place in Africa, which has one of the most diverse continents in the world.
+
+The family had recently travelled to Africa from Egypt to
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. She took a bite and tried cooking it. In the end she got a chocolate chip cookie with just a little, blackness.
+
+She asked if she can help, but someone told her to
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. I will go on to play a part in the history of The Rambler of the Dead."In an interview with the Wall Street Journal , the American Association for Reform Now (AAIR)
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer.
+
+The old TV was on, but he looked around for a reason to use it. Maybe it was a case of "snowflake," he thought, while holding a small file of photos
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. "I don't know," he says. He is wearing an "XA" mask.
+
+"The office was open on all four sides of a parking lot," says Mike. "And
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. This wasn't something they ever did, but Billy, Billy's father, says the experience was "awesome."
+
+The Pyeongchang Beer Company is based in the small town of
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school.
+
+Lorenzo said she has no information on whether the vehicle was involved in the shooting.
+
+Police and other officials were quick to release pictures of the suspect when officers responded.
+
+
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. But there was one thing she never did in the jungle. She loved to play as well. "My father, like my mother, would put me in every day," she once said. "He
+
+
+
+=== Part 2 TOP-P DECODING RESULTS (p=0.9) ===
+
+Example 1:
+Context: Rick grew up in a troubled household.
+Generated: Rick grew up in a troubled household. Graduated from the University of California Los Angeles with a degree in economics, he's never actually put a dent in his debt, which is around $6,000 per year.
+
+"If
+
+Example 2:
+Context: Laverne needs to prepare something for her friend's party.
+Generated: Laverne needs to prepare something for her friend's party.
+
+"We know our drink is the best, but you don't drink it," said Janis Jefferson, a party liaison. "We all drink our own damn liquors."
+
+Of
+
+Example 3:
+Context: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years.
+
+"I was always working there from the age of 13 to meet foreign tourists. It's really wonderful," she said.
+
+"It's really nice to come to Germany to do that
+
+Example 4:
+Context: Gina was worried the cookie dough in the tube would be gross.
+Generated: Gina was worried the cookie dough in the tube would be gross. But she has also been cautioned, and does not believe adding extra ingredients to make the cookie dough is something she should do. She only made a handful of cookies in the meantime – and they all looked
+
+Example 5:
+Context: It was  my final performance in marching band.
+Generated: It was  my final performance in marching band. It is my last. It was my last performance at the International Solidarity Day. It was my last concert. I thought it was some terrible loser. I hated the way I looked. I had
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. The victim climbed out of his car and drove back to the lumber yard where he saw Isabella [who had found her last item to her belongings before the truck slammed into her]. He then rushed out
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. Today he had to learn all about gardening. When he went to choose one of his fruit trees he found that his the perfect tree:
+
+Presently, for his project, he just plowed
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. They were also a very charismatic person with lots of talk, lots of ability and many stories.
+
+[6:35 AM] Dave: Jim is lucky enough to be part of an emce
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. The event was later called Bridges. Now 69, she still works in healthcare. The Stanley Athletic Association hopes there will be less grief and sadness.
+
+Last night the L&B president in attendance
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. His roots carried him to the states, she said, and he loved school, playing dodgeball.
+
+"Just this week he grabbed my bike and played it — he was a great person,"
+

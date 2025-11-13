@@ -1,0 +1,18 @@
+Part 1: Greedy Search and Ancestral Sampling
+
+Q2: Free response: What looks good and bad about the outputs from greedy search, and why? Explicitly tie your explanation to how greedy search works.
+A: 
+
+Q4:Discuss how the outputs from ancestral sampling differ from those obtained from greedy search. Explicitly tie your explanation to how ancestral sampling works in contrast to greedy search.
+A:
+
+Part 2: Top-k and Top-p Decoding
+
+Q2:Discuss how the outputs from top-k decoding differ from those obtained from greedy search and ancestral sampling. Explicitly tie your explanation to how top-k decoding works in contrast to greedy search and ancestral sampling. Is top-k decoding ever the same as greedy search?
+A:
+
+Q4:Discuss how the outputs from top-p decoding differ from those obtained from the previous methods. Explicitly tie your explanation to how top-p decoding works in contrast to the other methods, particularly top-k.
+A:
+
+Part 3: Hyperparameter Tuning
+
