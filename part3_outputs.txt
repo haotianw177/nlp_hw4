@@ -4,35 +4,66 @@
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. He was raised in a small town in the Midwest, where there was a large number of people living in poverty. He was the only child of a single mother.
+Generated: Rick grew up in a troubled household. His father was a former sheriff's deputy and his mother was a former sheriff's deputy.
 
-He was raised by a
+"He was a good kid," said his father, who was not involved in the case.
+
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
 Generated: Laverne needs to prepare something for her friend's party.
 
-"I'm going to have to get a job," she says. "I'm going to have to get a job."
-
-The couple has two children, ages 9 and 10,
+"I'm going to go to the party and I'll have a drink with her," she said. "I don't know what to expect. I'm not going to be a party
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years.
-
-"I was so excited to be back, and so excited to be back with my family," she said.
-
-"I was so excited to be back with my family and I am
+Generated: Sarah had been dreaming of visiting Europe for years. She was a young, beautiful woman. She had been dreaming of traveling to Europe to meet people, to meet people who were beautiful. She had been dreaming of traveling to Europe to visit people who were
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. "It was a little bit gross," she said. "It was a little bit gross. I'm not sure how it was going to go."
+Generated: Gina was worried the cookie dough in the tube would be gross. She said she was worried about the taste.
 
-"I was like, 'What the
+"I was like, 'Oh my God, I can't believe this is so gross,'" she said.
+
+The bakery said it will
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I was so proud of the band and the band members, and I wanted to do something special for them. I wanted to be a part of that. I was really proud of them. I was
+Generated: It was  my final performance in marching band. I was in the marching band for a few months and I was just a little bit nervous, but I was so excited. I was really excited about the marching band, because it was so exciting.
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. It was a small, small, tiny camera. It was a tiny camera. He had never seen a camera before. He had never seen a camera before. He was a little surprised that it was
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today.
+
+"I'm going to be a landscaper for the rest of my life," he said. "I'm not going to be a carpenter. I'm going to be a landscaper
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong.
+
+The two were able to get a taste of the world of craft beer, and were able to create a unique experience for their guests.
+
+The two also created a special beer called "
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school.
+
+The couple's three children are in school.
+
+The couple's two daughters are in school.
+
+The couple's two sons are in school.
+
+The couple's two daughters
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors.
 
 --------------------------------------------------------------------------------
 
@@ -40,31 +71,59 @@ Generated: It was  my final performance in marching band. I was so proud of the 
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. He was raised by his parents, and was raised by his mother.
+Generated: Rick grew up in a troubled household. He was a former Navy SEAL and a former Marine Corps Ranger. He is now an independent journalist, writer and author.
 
-He had a mother who was a teacher, and his father who was a lawyer.
-
-"I was raised to
+A former Navy SEAL, he was awarded an MBE in 2008 and
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. The party is going to be held at the same place where she was last seen.
+Generated: Laverne needs to prepare something for her friend's party.
 
-She was last seen on the morning of March 12, 2016, leaving a message on her cell phone telling
+"I'm going to do something I don't want to do," she says. "I'm going to do something that I think will help her, but I'm not going to do
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. She was very excited.
+Generated: Sarah had been dreaming of visiting Europe for years.
 
-"I have been thinking about this for years, and I have always wanted to get to know her," she said. "It's been a really wonderful experience to
+"I had just finished school and I was going to go to a university in Brussels," she says. "But I was very nervous because I wanted to go back home and I didn't
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. "I don't know if it's going to be gross or not," he said. "I'm not going to say it's gross, but I'm not going to say it's gross."
+Generated: Gina was worried the cookie dough in the tube would be gross. "I didn't know what to do with it," she said. "I was so confused."
+
+After the initial shock, she decided to go back to the kitchen and make some more cookies
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I was in the middle of marching band with my mother, and she was in the middle of marching band with her brother. She was in the middle of marching band with her brother. The last time
+Generated: It was  my final performance in marching band. I had just been out in a field with a bunch of people and I was just doing my marching. I was just doing my marching. I was just doing my marching. I was just doing my
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. He didn't want to waste it. He needed to find the camera. He was about to go to the store when he noticed a piece of paper in the corner of his drawer. He looked around
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today.
+
+"I'm excited to be here," she said. "I've been a landscaper for 15 years, so I know what it takes to get the job done."
+
+The new
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. Their first trip was to the West Coast to play in the US Open.
+
+"I remember going to the West Coast to play in the US Open. I remember going to the West Coast to
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She'd been on a mission to save the world from the "Evil One" and was now working as a nurse. She had an amazing sense of humor and was also a great leader.
+
+
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors. She hated the outdoors.
 
 --------------------------------------------------------------------------------
 
@@ -72,29 +131,59 @@ Generated: It was  my final performance in marching band. I was in the middle of
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. He never had a job, so he never had a dream job, so he didn't have any money to live on. He never had a job, so he never had a dream job, so
+Generated: Rick grew up in a troubled household. He remembers her as a young woman who was always "willing to be a little bit of a burden."
+
+"She was always very kind," he says. "She always had a good
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
 Generated: Laverne needs to prepare something for her friend's party.
 
-"I'm actually surprised that I haven't heard of you," she says. "I'm not sure if it's a coincidence, but I'm sure you have a crush on me."
+"I'm going to go to the party and I'm going to tell the party to stop making me feel so bad about myself," she said.
+
+"I'm going to go
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. But she never went.
+Generated: Sarah had been dreaming of visiting Europe for years. She had found the right place.
 
-"I never thought I'd see my family again," she said. "I was just so happy to be home. I was so excited to see my family again
+"I found the right place," she said. "I found the right place. I found the right place. I found the right place. I found
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. She didn't like the taste of the cookie dough. She thought she'd be able to take a shot of it and see what it was like.
+Generated: Gina was worried the cookie dough in the tube would be gross.
 
-A few days later, when I went
+"You could see the way she was eating it," said Kelly. "She was eating it in the oven. She was eating it in the oven and she was trying to eat it.
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I was pretty good at marching, but I was also pretty good at dancing. I was good at dancing. I was good at being a good dancer. I was good at being a good dancer.
+Generated: It was  my final performance in marching band. The first time I was in a marching band I was wearing a t-shirt with the words 'I'm a soldier, not a soldier'. I was wearing my uniform and I was wearing a t
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. He found a small, very dirty, black camera with an old man's face in it. He found a small, very dirty, black camera with an old man's face in it. He found
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. "There are a lot of people that are like me," he said. "They see themselves in the same way and they don't know what to think.
+
+"I'm not a big
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong.
+
+"We started playing with them when we were eight or nine years old," he says. "I remember one time I was playing with Billy and I was playing with a lady who was a
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She moved to the United States from France to study medicine at the University of California, San Francisco in the 1970s. The first thing she did, she says, was find a job at a pharmaceutical
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. She loved the outdoors, but she also knew that the outdoors was a dangerous place where people could get hurt.
+
+"I didn't want to live in a world where I didn't know how
 
 --------------------------------------------------------------------------------
 
@@ -102,31 +191,59 @@ Generated: It was  my final performance in marching band. I was pretty good at m
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. She had to work hard for her education, and she had a hard time getting her father to pay for it. "She was just like, 'I don't want to do this,' " he
+Generated: Rick grew up in a troubled household.
+
+She was a single mother who was struggling to raise a family. She was a mother of three young children, and she was also a mother of four young children.
+
+Her father was
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party.
-
-"I'm going to be honest, it's just a big party. It's going to be a big party, and I'm going to be honest, I'm going to be honest
+Generated: Laverne needs to prepare something for her friend's party. The party will be held at a hotel in the city's trendy city center. She says it is an ideal time to meet with her friend.This is a very good post. I am not
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. "But now I can see that I'm in a different world," she told her husband. "I'm here to live and I'm not afraid to be there."
 
-"I thought I would go to the United States, but my mother told her I was going to the Philippines."
-
-She said she had been in touch with a local woman, who
+But her life has
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. But she didn't think the cookies would be gross, either. She was so worried the cookie dough in the tube would be gross that she didn't take the cookies off the shelf.
-
-She
+Generated: Gina was worried the cookie dough in the tube would be gross. The cookie dough would have to be refrigerated for a couple of hours before it would be able to be baked. The cookie dough would have to be stored in plastic bags and refrigerated for at least
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I was wearing a white dress that had the sleeves of an old white shirt, with my back straight. The band was in the middle of the stage, and I was wearing a black jacket, which
+Generated: It was  my final performance in marching band. I am not a soldier. I am a soldier.
+
+The last time we were together was during the war. It was the first time I had ever done something as important as this.
+
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. "I'm going to use it to make a video," he said, "but it will be a lot more useful to me. It will show you where I am and what I'm doing."
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. He said he is excited to start his career as a gardener. "I'm very excited to be working with a company that is very well known for its quality of service and its ability to provide
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. The first two were a bit of a disappointment as the other two were a bit of the same. Billy was a little bit more of a "go-to guy".
+
+In the late 1970
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school.
+
+He was working in the field of surgery, when he was struck by a car in a busy area of the city, and suffered a head wound, the hospital said in a news release.
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. She had to go to school and get a job. She was always on a mission.
+
+"I was so scared. I was like, 'What is happening?' " she recalled.
+
 
 --------------------------------------------------------------------------------
 
@@ -134,31 +251,53 @@ Generated: It was  my final performance in marching band. I was wearing a white 
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. His father served as the head of a large corporation that was running around town while his mother was on vacation. As an eight-year-old, her life became increasingly difficult.
+Generated: Rick grew up in a troubled household.
 
-"He
+"A lot of the family was going through a tough time," she said. "A lot of those people had kids from bad times. They went out into the streets. I don't
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. "You're going to have to go find her before you get to this party, because I'm sure she'll come and help us out of there," she says.
+Generated: Laverne needs to prepare something for her friend's party. That night, he has decided to make her dinner at that house, not his. She doesn't think it's wise to go out with the party without her friends.
 
-This time, though
+In the beginning the
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. He had no idea it would be her last.
+Generated: Sarah had been dreaming of visiting Europe for years. She had always been a little too busy at school, but after the war she realized she couldn't get out of bed, and after a short nap she returned to her room.
 
-Now she was on a mission to visit Europe, to learn more and learn about life in a foreign land. She was not just doing that
+It was
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. I tried to get her to let me know that she wasn't sure if I'd had good luck on the next time. She agreed and took the first bite and said, "You're welcome,
+Generated: Gina was worried the cookie dough in the tube would be gross. She said she found a small piece of dough inside and put it in and gave it a squeeze. The girl, who does not identify as a female, told the court they were not in the kitchen
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I have been playing my drums in various roles for the last 20 years or so and am very grateful.
+Generated: It was  my final performance in marching band. The band started out as a band of five. It was the same group.
 
-I don't believe that you have met someone before, but you did meet one.
+"The main thing we started to do was create a group. We started with a big group of people and
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. The camera's camera mount had a single screw and the lens had an aperture of f/2.8. The new camera had a 3.2-mm lens in the bottom of it, which
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. "I am not here for anything," he says. "I am here for my kids, my friends; to take care of my family, and to do what's right for my kids and be
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. Billy had a love of Pee Wee's and was so excited by that. He knew it, and it was all he needed to do. He knew, though, that his friends would be there
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. "She went down and she went in her arms and we knew that there were going to be a lot of bad things going and that it was something that was going to be a huge part of the
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. He liked to run on the treadmill but he knew his work-life balance was out of whack. So the two started making out.
+
+"It was just a matter of making sure I
 
 --------------------------------------------------------------------------------
 
@@ -166,29 +305,67 @@ I don't believe that you have met someone before, but you did meet one.
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. His paternal grandmother and the older brother had both come from prison, where their maternal grandmother, who had committed a lesser crime than her brother, served as a prison supervisor. Though they were both children on
+Generated: Rick grew up in a troubled household. He graduated from high school with an English degree in 1974 and enrolled in Stony Brook University, where he met his future wife.
+
+In 1982, Stony Brook offered an offer to take some
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. "So, this is what they might ask, huh?" she said.
+Generated: Laverne needs to prepare something for her friend's party. It would probably not be a fun, quiet night for her. As for that friend…
 
-Rikki looked amused.
+"Oh. How will I know?"
 
-"Oh? They would want a girl there. But for the sake of
+It's no use. The only thing that she
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. "I wanted to see the new beaches and rivers of my hometown of Lille," he wrote. "I dreamed of living in Lille, and I did it."
 
-"I'm sure that in the future she'll look back on her early years with nostalgia and optimism," Haidt added. "She's the first ever to feel something she didn't
+One of her dreams
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. But the dough also seemed to be soft and fluffy. So the recipe worked pretty well when prepared. I baked the cookies to a 350°C/500°F/160°F/25 °
+Generated: Gina was worried the cookie dough in the tube would be gross. She started to eat it but after 30 minutes she noticed it turned oily. "I asked if it was coming out and it did. It was a little dry. I told her I was going to
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I don't know of any other company that I have tried using my face paint to make my appearance look more like my face. I was on the line for 1st on the march. I was
+Generated: It was  my final performance in marching band.
+
+And in the morning, my wife passed away. She and her boys, like a good friend, were watching the news, watching TV and playing video games through a phone. I can easily
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. A piece of paper that contained a photo of that person, the man named "Evelyn," was dropped into his trash. He had taken pictures that had been made from the previous "Eve
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today.
+
+"It took about two seconds, but it just came together," he said when asked about what happened.
+
+The driver died earlier this month.
+
+His wife, Lisa, said
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong.
+
+So what goes into making beer for that class?
+
+A. There are four core categories, but there's nothing for novices:
+
+Auld Algonquian Brewing
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. When she was a child, she tried to make a living with her mother and sisters only to have the family's attention shifted around to other siblings, in her late 20's. And she got really
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. Not since he moved to Canada have I had one, and his decision to turn it down was out of the question.
+
+In 2002, when I was only 15, he took me through a
 
 --------------------------------------------------------------------------------
 
@@ -196,27 +373,59 @@ Generated: It was  my final performance in marching band. I don't know of any ot
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. He has a degree in English literature and was a graduate candidate of Oxford. His first novel, a novel about an American woman named Martha, is about a girl who's lost the love of their lives
+Generated: Rick grew up in a troubled household. She grew up on a farm. Her family moved from New Mexico to Texas when her dad was governor in 1894, and her parents moved from Texas to Texas. She attended college at a community college
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. She is not sure if she can help, because of how much time they spend together, but she is sure that she can do something to help. She has to do something to help her, and
+Generated: Laverne needs to prepare something for her friend's party.
+
+The first thing you'll notice when you walk through the park in a car is how many cars are there. The first car that gets to you is the Mercedes, the car you see here
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. "It would have taken me a few years to find it, I just couldn't believe I was doing that," he recalls.
+Generated: Sarah had been dreaming of visiting Europe for years. It would be the perfect place.
 
-But then, he says, "I was really into the
+"But I didn't want to go," she told the BBC. "I didn't really want a family."
+
+She had been in a bad
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. She thought it would be gross because it would look so gross. Then she saw a video of how the tube would look on the tube with the cookie dough.
+Generated: Gina was worried the cookie dough in the tube would be gross. "I was like, 'Oh yeah, you can't make it.' I said I'm not going to go in there and make it, because you can't."
 
-It was a very funny experience
+The first time I
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. The last time we did a concert, we had a big crowd of people who didn't have any experience of it. We went through the motions a few years ago and it was really fun to be
+Generated: It was  my final performance in marching band. The last time I was at the concert I had a big heart attack and it was so painful that we had to take the band to the airport and we had a long walk out the doors, so
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. "That's what I was looking for!" he exclaimed, looking down the drain to see what he could find, but the camera still hadn't been taken off his shelf of film. It's been
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. "It took about a day," says the young man, who has worked at one of his businesses, and who asked to be identified only as Jody in order to protect him, his wife and
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. They played with their own beer in a small room.
+
+They were a good team. They knew how to play together.
+
+The game started off with Billy and Billy's friend and teammate
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She had never met the person who had been responsible for her death. The autopsy was conducted in a lab.
+
+The family of Caroline said that they were shocked and saddened.
+
+"I
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. But she was not alone. She had also learned about other women's bodies. In fact, she had been in love. "I'm not a woman anymore!" Shiro, who was now twenty
 
 --------------------------------------------------------------------------------
 
@@ -224,29 +433,52 @@ Generated: It was  my final performance in marching band. The last time we did a
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. She said she doesn't have many friends, but she feels like one of them "is my mom," or someone like her mom.
-
-"When I met her it seemed to me like someone
+Generated: Rick grew up in a troubled household. One time when he and his father didn't have to do much together, he'd play chess with some friends and he would watch the show. Now all that seems to pass. A man he loved
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. After getting out in search of her father he comes to their aid and saves them!Image:
+Generated: Laverne needs to prepare something for her friend's party. It is possible to make it on the island and go along to the island. But it can get difficult and that will change as time goes by.
 
-Taken down in December, a car from China went into a remote valley north-east
+In The Little Mermaid 2.1 ,
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. But she had recently made the decision to stay at Hogwarts to avoid her mother's insistence. And her dad had come.
+Generated: Sarah had been dreaming of visiting Europe for years.
 
-And so it was. As soon as Ron could sense any change to
+
+Now it's all about the first year of high school (she started to study international affairs and English in September 2013). The school has only taught a one or two month class. Her first
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. He then realized her son, John, was playing football at her family's family's house in West Point and her son, J, was doing the cooking in one of a series of other small kitchens
+Generated: Gina was worried the cookie dough in the tube would be gross. The next thing he knows, he's already gone and been looking at all sorts people in all kinds of weird poses and making weird cookies out here, but his mind wandered again and again. So she
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. When I got to be here, my first thought was it would make me laugh when somebody else did something, and I laughed for a bit when I saw those pictures. Then when one of us got
+Generated: It was  my final performance in marching band. My goal was for it to be the final concert of its career. After the show the rest went. At some stage or someone in an office asked the question. And I asked what was their reason
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. This one he had left behind. As the camera started filming this time in May 2013 they stopped making film at work to use his computer system so that the video wouldn't crash.
+
+They also
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. As part of the hiring process for this new hire he and many local residents who had moved out had their jobs transferred in accordance with his plan because they were worried about leaving the local school board after being
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. But there was just so much about him which didn't fit with modern styles and we needed to figure out whether or not he could actually put on a hat and make himself a really great character as well
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She said she had an affair with the first lady and was pregnant shortly to be laid, then moved around a little, and was not pregnant again. That changed when, while working from house to table
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. The kids played all kinds of different game modes – it just seemed too bad to live indoors.
+
+"No one would want kids at all at my age to stay in your living room, and
 
 --------------------------------------------------------------------------------
 
@@ -254,25 +486,43 @@ Generated: It was  my final performance in marching band. When I got to be here,
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household.
-
-The child-turned actor has starred on The Voice's nationally syndicated news program since 2005 under one condition – that she can give more clues (to friends!) than she normally does when discussing
+Generated: Rick grew up in a troubled household. Her family had no income, let alone the means for health insurance. In the 1970s at least nine kids turned 10 weeks prematurely from pre-diabetes, with limited job prospects since these conditions can
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. With everything going wrong in a big room – they couldn't hold a party in public today while the big boys went off to work all weekend long instead of returning home today – we go live on television
+Generated: Laverne needs to prepare something for her friend's party. The party may involve a long day of shopping like her brother didn't give up to help him purchase pizza last year.The Canadian Science Club may come alive as "Canadian Foodbank of Montreal",
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. 'I'm not crazy: they make fun stuff,' she laughed recently. "And everyone said. If I had lived for three more of my childhoods, my children…'" For all his good
+Generated: Sarah had been dreaming of visiting Europe for years. For many other years she and many friends waited over seven years in front of friends where none of them are currently married or have even seen children."A girl of about 9' 5", She would occasionally
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. She ordered a small bag-sized assortment of vanilla butter & cream chocolate cake waffle cake batter along with a spoonful a few extra grams of the same, melted chocolate flour from chocolate bar or cake
+Generated: Gina was worried the cookie dough in the tube would be gross. On hearing that she'd spent 2,500 minutes playing for so long the company went down from trying their cookies. With less or no time devoted just using the plastic packaging or a kitchen scale that you
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. On Sunday the morning since 9 AM I joined on one final stand-to-show and for more music was announced on my home TV a little after 1 PM by myself on 1 September for the marching
+Generated: It was  my final performance in marching band. (This weekend I will go to Germany; go again in a separate performance on Friday at 1630GMT) but the result is it that in your first two matches the two players with the superior statistics
+
+Example 6:
+Context: Jim found an old disposable camera in the bottom of his junk drawer.
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. That device contained the name "Steve Jobs"—an invention from 1995 that is at least 75 years old! His parents weren't there for the unveiling, just when he had just finished spending his week at
+
+Example 7:
+Context: Ron started his new job as a landscaper today.
+Generated: Ron started his new job as a landscaper today. He says he worked hard on the city in hopes it could benefit other municipalities. It won't happen by law that would stop people outliving the new housing. The state legislature still has to pass an
+
+Example 8:
+Context: John and Billy became very skilled at beer pong.
+Generated: John and Billy became very skilled at beer pong. There still is that old school vibe there; like, everybody talks about this and things for some distance there. So they played the new game with their band 'We are Your Dogs' about six or
+
+Example 9:
+Context: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. She was very supportive, loving and helpful in my classroom conversations as a teacher. The fact remained that it was only a three and only-year-old that showed any desire and passion. They thought
+
+Example 10:
+Context: Trish hated the outdoors.
+Generated: Trish hated the outdoors. When he lived inside by himself before setting forth after his own home, she wanted him outdoors during her daily drive through Virginia. To prevent those two boys' parents from setting on any of the "sc
 
 --------------------------------------------------------------------------------
 

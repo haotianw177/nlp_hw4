@@ -2,65 +2,52 @@
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household.
-
-"What do you call yourselves before age 17 or 18?" he asked. "The one who loves to make kids do the things they have to do?"
-
-But the question he always
+Generated: Rick grew up in a troubled household. When the family moved to the town in 1975, they lived a quiet four-room rental with a couch, six horses, and no refrigerator. As he began to take advantage of the family's home
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party. When she meets the stranger, she decides to take out a bottle of vodka, to make sure she isn't being cheated.
+Generated: Laverne needs to prepare something for her friend's party.
 
-Back in the present, the party continues to a full day's
+
+The two men are in the same dormitory, where, according to the website, "the first thing you notice is that no one is sleeping. That's because an air conditioner has
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years. Now there was a definite chance that the journey might also take place in Africa, which has one of the most diverse continents in the world.
-
-The family had recently travelled to Africa from Egypt to
+Generated: Sarah had been dreaming of visiting Europe for years. After my family moved to Australia in 1994 she was still working, but after I had moved back to the United States she was still struggling. Then she got a post-doc job as she was starting
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. She took a bite and tried cooking it. In the end she got a chocolate chip cookie with just a little, blackness.
-
-She asked if she can help, but someone told her to
+Generated: Gina was worried the cookie dough in the tube would be gross. She tried a few different cookie brands. They all contained some form of flour, but she also found that some of them were "fog free." That's why she decided to try others. It
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. I will go on to play a part in the history of The Rambler of the Dead."In an interview with the Wall Street Journal , the American Association for Reform Now (AAIR)
+Generated: It was  my final performance in marching band. I started out on a band a little too loose. I started out at 14 years old and really liked to dance. You can have a little go but they don't want to.
+
+Advertisement
 
 Example 6:
 Context: Jim found an old disposable camera in the bottom of his junk drawer.
-Generated: Jim found an old disposable camera in the bottom of his junk drawer.
-
-The old TV was on, but he looked around for a reason to use it. Maybe it was a case of "snowflake," he thought, while holding a small file of photos
+Generated: Jim found an old disposable camera in the bottom of his junk drawer. It's probably the best camera ever, but not exactly in the form it would take him back to an "active" shooting practice or studio. To add insult to injury, on one use the "
 
 Example 7:
 Context: Ron started his new job as a landscaper today.
-Generated: Ron started his new job as a landscaper today. "I don't know," he says. He is wearing an "XA" mask.
+Generated: Ron started his new job as a landscaper today.
 
-"The office was open on all four sides of a parking lot," says Mike. "And
+His resume says he's been in the retail industry and worked for several businesses, but he won't say whether he's worked for Walmart, which he says does not have a corporate headquarters in
 
 Example 8:
 Context: John and Billy became very skilled at beer pong.
-Generated: John and Billy became very skilled at beer pong. This wasn't something they ever did, but Billy, Billy's father, says the experience was "awesome."
-
-The Pyeongchang Beer Company is based in the small town of
+Generated: John and Billy became very skilled at beer pong. Billy began using some old school wooden clubs, which he used to beat up people and throw them out for a while, after which he would kick them and slap the bars again, as if they'd
 
 Example 9:
 Context: Caroline was a student in medical school.
-Generated: Caroline was a student in medical school.
+Generated: Caroline was a student in medical school. My father didn't understand why anyone would say 'it's for kids,'" she says. "I was devastated. Because I don't think she was an innocent girl."
 
-Lorenzo said she has no information on whether the vehicle was involved in the shooting.
-
-Police and other officials were quick to release pictures of the suspect when officers responded.
-
-
+Sherry wasn't
 
 Example 10:
 Context: Trish hated the outdoors.
-Generated: Trish hated the outdoors. But there was one thing she never did in the jungle. She loved to play as well. "My father, like my mother, would put me in every day," she once said. "He
+Generated: Trish hated the outdoors. They were no better than his, but he used to put on weight every day and enjoy the sunshine. When he started making the most of his time in the mountains he thought he was getting better at
 
 
 
@@ -68,59 +55,59 @@ Generated: Trish hated the outdoors. But there was one thing she never did in th
 
 Example 1:
 Context: Rick grew up in a troubled household.
-Generated: Rick grew up in a troubled household. Graduated from the University of California Los Angeles with a degree in economics, he's never actually put a dent in his debt, which is around $6,000 per year.
-
-"If
+Generated: Rick grew up in a troubled household. She was 9 years old when she went to college and when she did she was an Assistant High School Chemistry student and an Associate Justice of the Supreme Court of New York. Her main title was a Junior
 
 Example 2:
 Context: Laverne needs to prepare something for her friend's party.
-Generated: Laverne needs to prepare something for her friend's party.
-
-"We know our drink is the best, but you don't drink it," said Janis Jefferson, a party liaison. "We all drink our own damn liquors."
-
-Of
+Generated: Laverne needs to prepare something for her friend's party. "We're so powerful," she says, "and we take great pride in it." Unlike many young Republicans, she gets her sound bites on things. The weekend in Kansas City has been pleasant,
 
 Example 3:
 Context: Sarah had been dreaming of visiting Europe for years.
-Generated: Sarah had been dreaming of visiting Europe for years.
+Generated: Sarah had been dreaming of visiting Europe for years. Now she'd just turned 31.
 
-"I was always working there from the age of 13 to meet foreign tourists. It's really wonderful," she said.
-
-"It's really nice to come to Germany to do that
+"I'm sure she'd love it," I said, and put a sweater on her back and pressed it to my back. "I really do wish
 
 Example 4:
 Context: Gina was worried the cookie dough in the tube would be gross.
-Generated: Gina was worried the cookie dough in the tube would be gross. But she has also been cautioned, and does not believe adding extra ingredients to make the cookie dough is something she should do. She only made a handful of cookies in the meantime – and they all looked
+Generated: Gina was worried the cookie dough in the tube would be gross. It tastes like a rotten sourdough wrapper.
+
+
+-- Chris
+
+
+My response: they are good. So good that the first person who does a review gave it the rating I believe it
 
 Example 5:
 Context: It was  my final performance in marching band.
-Generated: It was  my final performance in marching band. It is my last. It was my last performance at the International Solidarity Day. It was my last concert. I thought it was some terrible loser. I hated the way I looked. I had
+Generated: It was  my final performance in marching band.
+
+
+Also, you may get a sliver of the 5 in the shapes of the light rifle (s/n) or the kawashgan (a different rifle to Karist ), but
 
 Example 6:
 Context: Jim found an old disposable camera in the bottom of his junk drawer.
-Generated: Jim found an old disposable camera in the bottom of his junk drawer. The victim climbed out of his car and drove back to the lumber yard where he saw Isabella [who had found her last item to her belongings before the truck slammed into her]. He then rushed out
+Generated: Jim found an old disposable camera in the bottom of his junk drawer.
+
+
+"A secret object I read in the old Hubbard papers," he says. "That was before they didn't write down on a blank paper all the material we used to analyze [the secret
 
 Example 7:
 Context: Ron started his new job as a landscaper today.
-Generated: Ron started his new job as a landscaper today. Today he had to learn all about gardening. When he went to choose one of his fruit trees he found that his the perfect tree:
+Generated: Ron started his new job as a landscaper today.
 
-Presently, for his project, he just plowed
+"I said I have a job at The Globe and Mail. I called them yesterday and told them what I'm doing here," he said.
+
+He said he joined by phone Tuesday
 
 Example 8:
 Context: John and Billy became very skilled at beer pong.
-Generated: John and Billy became very skilled at beer pong. They were also a very charismatic person with lots of talk, lots of ability and many stories.
-
-[6:35 AM] Dave: Jim is lucky enough to be part of an emce
+Generated: John and Billy became very skilled at beer pong. In 1972 with the reunion tour Billy joined Team Big Bottom (B2B) to help organize big tours of the United States and Europe. Big Bottom went out to Samoa to secure real world hard hitting
 
 Example 9:
 Context: Caroline was a student in medical school.
-Generated: Caroline was a student in medical school. The event was later called Bridges. Now 69, she still works in healthcare. The Stanley Athletic Association hopes there will be less grief and sadness.
-
-Last night the L&B president in attendance
+Generated: Caroline was a student in medical school. The youngster quickly found a job in a disability rehabilitation organization at New York State University. After her residency, she settled down with her passion for this awesome wonderful art for meditation, education, and her patients
 
 Example 10:
 Context: Trish hated the outdoors.
-Generated: Trish hated the outdoors. His roots carried him to the states, she said, and he loved school, playing dodgeball.
-
-"Just this week he grabbed my bike and played it — he was a great person,"
+Generated: Trish hated the outdoors. But she'd go to the ski slopes a lot, in the backcountry and then go on top of them. It was a way to not feel miserable. She wished it hadn't been her and
 

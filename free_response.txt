@@ -2,28 +2,50 @@
 
 Q2: Free response: What looks good and bad about the outputs from greedy search, and why? Explicitly tie your explanation to how greedy search works.
 
-What Looks Good:
-The outputs start grammatically correct and contextually relevant because greedy search selects the most probable next token, which initially produces sensible continuations.
-What Looks Bad:
-Severe repetition dominates almost every example (e.g., "He was a high school dropout" repeated 5 times, "I was so happy to be back in the band" repeated 4 times). This happens
-because greedy search deterministically selects the highest probability token at each step with no randomness to escape repetitive patterns—once stuck in a loop, it cannot explore 
-alternative paths, making it trapped in a local maximum where continuing the repetition remains most probable.
+What Looks Good: The outputs start grammatically correct and contextually relevant because greedy search selects the most probable next token, 
+which initially produces sensible continuations.
+
+What Looks Bad: Severe repetition dominates almost every example (e.g., "He was a high school dropout" repeated 5 times, "I was so happy to be 
+back in the band" repeated 4 times) because greedy search deterministically selects the highest probability token at each step with no randomness 
+to escape repetitive patterns—once stuck in a loop, it cannot explore alternative paths and remains trapped in a local maximum where continuing 
+the repetition is most probable.
 
 Q4:Discuss how the outputs from ancestral sampling differ from those obtained from greedy search. Explicitly tie your explanation to how ancestral sampling works in contrast to greedy search.
 
-Ancestral sampling produces diverse, non-repetitive outputs (e.g., Rick's story mentions "disgruntled parents," "Chris," and "harvest" without loops) because it samples tokens randomly according 
-to the probability distribution rather than always picking the highest probability token—this stochasticity allows exploration of different paths and prevents getting trapped in repetition. 
-However, this randomness also generates incoherent and nonsensical text (e.g., "snickerdoughnuts," "MP after MP at 2pt Monday morning," random topic shifts) because lower-probability tokens get 
-selected, producing grammatically broken and semantically meaningless sequences that greedy search would never generate. Unlike greedy search's deterministic, locally optimal but globally repetitive 
-behavior, ancestral sampling trades coherence for diversity by introducing randomness that breaks repetition but also breaks logical flow.
+Ancestral sampling eliminates the repetition problem seen in greedy search by randomly sampling tokens according to the probability distribution 
+rather than always selecting the most probable one, allowing it to explore diverse paths and avoid getting stuck in loops (e.g., Rick's story 
+mentions MIT, music, and grad school without any repetition). However, this randomness introduces severe coherence problems—the outputs are filled 
+with nonsensical topic shifts, contradictions, and grammatical errors (e.g., "238 years ago" for cookie dough, "bolter" in medical school context, 
+abrupt shifts from landscaping to "ginger book") because lower-probability, contextually inappropriate tokens get selected. While greedy search produces 
+repetitive but locally coherent text, ancestral sampling trades coherence for diversity, generating varied but often incoherent and meaningless narratives.
+
 
 ==== Part 2: Top-k and Top-p Decoding ====
 
 Q2:Discuss how the outputs from top-k decoding differ from those obtained from greedy search and ancestral sampling. Explicitly tie your explanation to how top-k decoding works in contrast to greedy search and ancestral sampling. Is top-k decoding ever the same as greedy search?
-A:
+
+Top-k decoding (k=50) produces outputs that balance diversity and coherence better than both greedy search and ancestral sampling—it avoids greedy search's 
+repetition loops by introducing randomness, but constrains that randomness to only the top 50 most probable tokens at each step, preventing the nonsensical, 
+low-probability token selections that plague ancestral sampling (e.g., the outputs have varied content like "four-room rental with six horses" without severe 
+incoherence, though some awkwardness remains like topic drift). Top-k decoding can be equivalent to greedy search only when k=1, where it deterministically 
+selects the single most probable token just like greedy search, otherwise it samples from a restricted pool rather than always choosing the maximum probability 
+token. By limiting sampling to high-probability tokens, top-k finds a middle ground: it explores enough to avoid repetition but restricts exploration enough to 
+maintain reasonable (though imperfect) coherence, unlike greedy's deterministic repetition or ancestral's unbounded randomness.
 
 Q4:Discuss how the outputs from top-p decoding differ from those obtained from the previous methods. Explicitly tie your explanation to how top-p decoding works in contrast to the other methods, particularly top-k.
-A:
 
-Part 3: Hyperparameter Tuning
+Top-p decoding (p=0.9) dynamically adjusts the sampling pool based on cumulative probability rather than a fixed number of tokens like top-k, which means 
+the vocabulary size varies at each step—sometimes sampling from just a few high-probability tokens (when distribution is peaked) and sometimes from many 
+tokens (when distribution is flat)—resulting in outputs that are similarly diverse to top-k but with slightly more contextual adaptability (e.g., the outputs 
+show varied content like "Associate Justice" and "beer pong tours" without severe repetition, though coherence issues like topic drift remain). 
+Unlike top-k's fixed k=50 constraint, top-p's adaptive threshold allows it to be more conservative when the model is confident (few tokens reach 90% cumulative probability) 
+and more exploratory when the model is uncertain (many tokens needed to reach 90%), making it theoretically more responsive to context than the rigid cutoff of top-k. 
+However, in practice with p=0.9 and k=50, both methods produce similarly imperfect outputs—more coherent and less repetitive than ancestral sampling's unbounded randomness, 
+less repetitive but more varied than greedy search's determinism, but still exhibiting some incoherence and abrupt topic shifts because they both sample from restricted 
+probability distributions rather than deterministically selecting the most probable path.
 
+
+==== Part 3: Hyperparameter Tuning ====
+Q5:
+The best combination is T=1.0, k=50, which provides the optimal balance of grammar, creativity, and relevance—offering diverse, creative narratives with acceptable grammatical 
+structure and reasonable contextual relevance.

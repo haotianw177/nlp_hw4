@@ -169,7 +169,7 @@ if __name__ == '__main__':
             output_file3.write(f"=== Temperature: {temp}, k: {k} ===\n\n")
             print(f"Temperature: {temp}, k: {k}")
             lm = LanguageModel(mode = 'top-k', temperature=temp, k=k)
-            for idx,context in enumerate(contexts[:5], 1):
+            for idx,context in enumerate(contexts[:10], 1):
                 result = lm.generate(context, max_new_tokens=40)
                 print(result)
                 output_file3.write(f"Example {idx}:\n")
