@@ -1,16 +1,23 @@
-Part 1: Greedy Search and Ancestral Sampling
+==== Part 1: Greedy Search and Ancestral Sampling ====
 
 Q2: Free response: What looks good and bad about the outputs from greedy search, and why? Explicitly tie your explanation to how greedy search works.
-A: 
-What Looks Good
+
+What Looks Good:
 The outputs start grammatically correct and contextually relevant because greedy search selects the most probable next token, which initially produces sensible continuations.
-What Looks Bad
-Severe repetition dominates almost every example (e.g., "He was a high school dropout" repeated 5 times, "I was so happy to be back in the band" repeated 4 times). This happens because greedy search deterministically selects the highest probability token at each step with no randomness to escape repetitive patterns—once stuck in a loop, it cannot explore alternative paths, making it trapped in a local maximum where continuing the repetition remains most probable.
+What Looks Bad:
+Severe repetition dominates almost every example (e.g., "He was a high school dropout" repeated 5 times, "I was so happy to be back in the band" repeated 4 times). This happens
+because greedy search deterministically selects the highest probability token at each step with no randomness to escape repetitive patterns—once stuck in a loop, it cannot explore 
+alternative paths, making it trapped in a local maximum where continuing the repetition remains most probable.
 
 Q4:Discuss how the outputs from ancestral sampling differ from those obtained from greedy search. Explicitly tie your explanation to how ancestral sampling works in contrast to greedy search.
-A:
 
-Part 2: Top-k and Top-p Decoding
+Ancestral sampling produces diverse, non-repetitive outputs (e.g., Rick's story mentions "disgruntled parents," "Chris," and "harvest" without loops) because it samples tokens randomly according 
+to the probability distribution rather than always picking the highest probability token—this stochasticity allows exploration of different paths and prevents getting trapped in repetition. 
+However, this randomness also generates incoherent and nonsensical text (e.g., "snickerdoughnuts," "MP after MP at 2pt Monday morning," random topic shifts) because lower-probability tokens get 
+selected, producing grammatically broken and semantically meaningless sequences that greedy search would never generate. Unlike greedy search's deterministic, locally optimal but globally repetitive 
+behavior, ancestral sampling trades coherence for diversity by introducing randomness that breaks repetition but also breaks logical flow.
+
+==== Part 2: Top-k and Top-p Decoding ====
 
 Q2:Discuss how the outputs from top-k decoding differ from those obtained from greedy search and ancestral sampling. Explicitly tie your explanation to how top-k decoding works in contrast to greedy search and ancestral sampling. Is top-k decoding ever the same as greedy search?
 A:
