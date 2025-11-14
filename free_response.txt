@@ -13,7 +13,7 @@ the repetition is most probable.
 Q4:Discuss how the outputs from ancestral sampling differ from those obtained from greedy search. Explicitly tie your explanation to how ancestral sampling works in contrast to greedy search.
 
 Ancestral sampling eliminates the repetition problem seen in greedy search by randomly sampling tokens according to the probability distribution 
-rather than always selecting the most probable one, allowing it to explore diverse paths and avoid getting stuck in loops (e.g., Rick's story 
+rather than always selecting the most probable one, which will allows it to explore diverse paths and avoid getting stuck in loops (e.g., Rick's story 
 mentions MIT, music, and grad school without any repetition). However, this randomness introduces severe coherence problems—the outputs are filled 
 with nonsensical topic shifts, contradictions, and grammatical errors (e.g., "238 years ago" for cookie dough, "bolter" in medical school context, 
 abrupt shifts from landscaping to "ginger book") because lower-probability, contextually inappropriate tokens get selected. While greedy search produces 
