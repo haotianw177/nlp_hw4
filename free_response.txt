@@ -47,5 +47,6 @@ probability distributions rather than deterministically selecting the most proba
 
 ==== Part 3: Hyperparameter Tuning ====
 Q5:
-The best combination is T=1.0, k=50, which provides the optimal balance of grammar, creativity, and relevance—offering diverse, creative narratives with acceptable grammatical 
+
+I believe the best combination is when T=1.0, k=50, which it provides the optimal balance of grammar, creativity, and relevance—offering diverse, creative narratives with acceptable grammatical 
 structure and reasonable contextual relevance.
